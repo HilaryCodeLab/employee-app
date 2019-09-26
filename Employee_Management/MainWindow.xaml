@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Calendar HorizontalAlignment="Left" Margin="310,149,0,0" VerticalAlignment="Top" Height="95" Width="66"/>
+
     </Grid>
 </Window>
